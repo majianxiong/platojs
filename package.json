@@ -1,6 +1,6 @@
 {
   "name": "platojs",
-  "version": "3.0.0.beta",
+  "version": "3.0.0-beta",
   "description": "Libraries for PLATO",
   "repository": {
     "type": "git",
