@@ -1,0 +1,20 @@
+{
+  "name": "platojs",
+  "version": "3.0.0.beta",
+  "description": "Libraries for PLATO",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platojs/platojs.git"
+  },
+  "keywords": [
+    "plato",
+    "libraries",
+    "all in one"
+  ],
+  "author": "crossjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platojs/platojs/issues"
+  },
+  "homepage": "https://github.com/platojs/platojs"
+}
