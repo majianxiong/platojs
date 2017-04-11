@@ -1,6 +1,6 @@
 {
   "name": "platojs",
-  "version": "3.0.0-beta.14",
+  "version": "3.0.0-beta.15",
   "description": "Libraries for PLATO",
   "main": "index.js",
   "repository": {
