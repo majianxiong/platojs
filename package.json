@@ -24,10 +24,10 @@
   "homepage": "https://github.com/platojs/platojs",
   "dependencies": {
     "lodash": "^4.17.4",
-    "query-string": "^4.3.2",
+    "query-string": "^4.3.4",
     "string-template": "^1.0.0",
-    "vue-router": "^2.3.0",
-    "vuex": "^2.2.1",
+    "vue-router": "^2.4.0",
+    "vuex": "^2.3.1",
     "vuex-router-sync": "^4.1.2"
   }
 }
