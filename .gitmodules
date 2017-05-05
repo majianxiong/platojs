@@ -13,3 +13,6 @@
 [submodule "directives"]
 	path = directives
 	url = https://github.com/platojs/directives
+[submodule "request"]
+	path = request
+	url = https://github.com/platojs/request
