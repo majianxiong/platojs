@@ -1,7 +1,7 @@
 {
   "name": "platojs",
   "version": "3.0.0-beta.29",
-  "description": "Libraries for PLATO",
+  "description": "Libraries of PLATO",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "keywords": [
     "plato",
     "libraries",
-    "core",
+    "system",
     "components",
     "directives",
     "plugins",

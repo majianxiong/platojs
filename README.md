@@ -1,6 +1,6 @@
 # PLATOJS
 
-> Libraries for PLATO
+> Libraries of PLATO
 
 ## Install
 
@@ -10,34 +10,8 @@ $ npm install platojs -S
 
 ## Usage
 
-Components
-
 ```js
-import xxx from 'platojs/components/xxx'
-```
-
-Directives
-
-```js
-import xxx from 'platojs/directives/xxx'
-```
-
-Plugins
-
-```js
-import xxx from 'platojs/plugins/xxx'
-```
-
-Util
-
-```js
-import xxx from 'platojs/util/xxx'
-```
-
-System
-
-```js
-import xxx from 'platojs/system/xxx'
+import xxx from 'platojs/.../...'
 ```
 
 ## Webpack
