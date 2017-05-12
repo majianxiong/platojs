@@ -16,3 +16,6 @@
 [submodule "request"]
 	path = request
 	url = https://github.com/platojs/request
+[submodule "vuex-templates"]
+	path = vuex-templates
+	url = https://github.com/platojs/vuex-templates
